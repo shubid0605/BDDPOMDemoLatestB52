@@ -95,7 +95,7 @@ public class PlaceOrderStepDef {
 	
 	@Given("User should be on home page")
 	public void user_should_be_on_home_page1() {
-	    
+	 System.out.println("Checking new changes");
 	}
 
 
