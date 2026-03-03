@@ -36,7 +36,6 @@ public class CartPage {
 	public void chkOutOrder() {
 		if(isItemAdded()) {
 			cheOutBtn.click();
-			System.out.println("Hello");
 		}
 			
 	
