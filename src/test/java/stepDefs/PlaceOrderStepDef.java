@@ -26,7 +26,7 @@ public class PlaceOrderStepDef {
 	}
 	
 	
-	
+	//Code for login page
 	@Given("User is on login Page")
 	public void user_is_on_login_page() {
 	    TestBase.openUrl("https://www.saucedemo.com/");
